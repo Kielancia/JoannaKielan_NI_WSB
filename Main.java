@@ -29,6 +29,5 @@ public class Main {
 		}*/
 
 		//jeszcze jeden i jeszcze raz
-		//no, zmiana cofnięcia ten
 	}
 }
