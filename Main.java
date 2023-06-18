@@ -28,6 +28,6 @@ public class Main {
 			System.out.println(ic.place + "..." + ic.country + "..." + ic.iq);
 		}*/
 
-		//zmiana nr 2
+		//jeszcze jeden i jeszcze raz
 	}
 }
