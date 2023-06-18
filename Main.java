@@ -27,5 +27,7 @@ public class Main {
 			int temp = i++;
 			System.out.println(ic.place + "..." + ic.country + "..." + ic.iq);
 		}*/
+
+		// Github zadanie, zmiana nr 1
 	}
 }
