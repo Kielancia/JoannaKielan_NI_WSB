@@ -28,6 +28,6 @@ public class Main {
 			System.out.println(ic.place + "..." + ic.country + "..." + ic.iq);
 		}*/
 
-		// Github zadanie, zmiana nr 1
+		//zmiana nr 2
 	}
 }
